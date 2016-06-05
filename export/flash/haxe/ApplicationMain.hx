@@ -267,7 +267,7 @@ class ApplicationMain {
 		
 		config = {
 			
-			build: "423",
+			build: "425",
 			company: "HaxeFlixel",
 			file: "BlockPusher",
 			fps: 60,

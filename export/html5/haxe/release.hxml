@@ -1,10 +1,12 @@
 -main ApplicationMain 
+-cp C:/Users/Noogai03/Programming/haxe/windows/flixel-addons/1,1,1
+-D flixel-addons=1.1.1
 -cp C:/Users/Noogai03/Programming/haxe/windows/flixel/3,3,12
 -D flixel=3.3.12
--cp C:/Users/Noogai03/Programming/haxe/windows/openfl/3,5,3
--D openfl=3.5.3
 -cp C:/Users/Noogai03/Programming/haxe/windows/lime/2,8,2
 -D lime=2.8.2
+-cp C:/Users/Noogai03/Programming/haxe/windows/openfl/3,5,3
+-D openfl=3.5.3
 -cp source
 -D openfl-next
 -D tools=2.8.2
